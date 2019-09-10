@@ -1,1 +1,1 @@
-# tzspanalyser are tools for TZSP flow from sniffers
+# tzspanalyser are tools for handling with TZSP flows
