@@ -1,1 +1,1 @@
-# tzspanalyser are tools for handling with TZSP flows
+# tzspanalyser Some tools that help handling with TZSP flows
